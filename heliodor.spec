@@ -6,7 +6,7 @@ Release:	1
 License:	LGPL v2+
 Group:		Themes
 Source0:	http://releases.beryl-project.org/%{version}/%{name}-%{version}.tar.bz2
-# Source0-md5:	aeb1c42f907f08226c5d4ce48b8d209c
+# Source0-md5:	463b73840be6461097122788bdf77979
 URL:		http://beryl-project.org/
 BuildRequires:	GConf2-devel >= 2.0
 BuildRequires:	autoconf >= 2.57
