@@ -38,7 +38,6 @@ przeznaczony do u¿ywania wraz z GNOME.
 
 %prep
 %setup -q
-%patch0 -p1
 
 %build
 %{__libtoolize}
@@ -63,5 +62,4 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(644,root,root,755)
 %attr(755,root,root) %{_bindir}/heliodor
-%attr(755,root,root) %{_libdir}/window-manager-settins/libberyl.so
-%{_datadir}/wm-properties/beryl.desktop
+%attr(755,root,root) %{_libdir}/window-manager-settings/libberyl.so
