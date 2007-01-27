@@ -11,7 +11,7 @@ URL:		http://beryl-project.org/
 BuildRequires:	GConf2-devel >= 2.0
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake >= 1:1.9
-BuildRequires:	beryl-core-devel >= 1:0.1.3
+BuildRequires:	beryl-core-devel >= 1:0.1.99.2
 BuildRequires:	control-center-devel >= 2.0
 BuildRequires:	gnome-desktop-devel >= 2.0
 BuildRequires:	gtk+2-devel >= 2:2.8.0
@@ -20,7 +20,7 @@ BuildRequires:	metacity-devel >= 2.15.21
 BuildRequires:	pango-devel >= 1.10.0
 BuildRequires:	pkgconfig
 BuildRequires:	rpmbuild(macros) >= 1.129
-Requires:	beryl-core >= 1:0.1.3
+Requires:	beryl-core >= 1:0.1.99.2
 Requires:	control-center >= 2.0
 Requires:	gtk+2 >= 2:2.8.0
 Requires:	metacity >= 2.15.21
