@@ -1,5 +1,5 @@
 Summary:	Themeable window decorator and compositing manager for beryl
-Summary(pl):	Dekorator okien dla beryla uøywaj±cy motywÛw
+Summary(pl.UTF-8):   Dekorator okien dla beryla u≈ºywajƒÖcy motyw√≥w
 Name:		heliodor
 Version:	0.1.99.2
 Release:	1
@@ -32,9 +32,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Heliodor is themeable window decorator and compositing manager for
 beryl. Heliodor is intended for use with GNOME.
 
-%description -l pl
-Heliodor jest dekoratorem okien dla beryla uøywaj±cym motywÛw. Jest
-przeznaczony do uøywania wraz z GNOME.
+%description -l pl.UTF-8
+Heliodor jest dekoratorem okien dla beryla u≈ºywajƒÖcym motyw√≥w. Jest
+przeznaczony do u≈ºywania wraz z GNOME.
 
 %prep
 %setup -q
