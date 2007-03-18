@@ -1,12 +1,12 @@
 Summary:	Themeable window decorator and compositing manager for beryl
 Summary(pl.UTF-8):	Dekorator okien dla beryla używający motywów
 Name:		heliodor
-Version:	0.2.0
+Version:	0.2.1
 Release:	1
 License:	LGPL v2+
 Group:		Themes
 Source0:	http://releases.beryl-project.org/%{version}/%{name}-%{version}.tar.bz2
-# Source0-md5:	ccbcdab0a90e4d5250cc2d58faeadd17
+# Source0-md5:	7bd2538a16994b81eabc44b362ebda8c
 URL:		http://beryl-project.org/
 BuildRequires:	GConf2-devel >= 2.0
 BuildRequires:	autoconf >= 2.57
