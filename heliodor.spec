@@ -14,6 +14,7 @@ BuildRequires:	automake >= 1:1.9
 BuildRequires:	beryl-core-devel >= 1:%{version}
 BuildRequires:	control-center-devel >= 2.0
 BuildRequires:	gnome-desktop-devel >= 2.0
+BuildRequires:	gnome-menus-devel >= 2.0
 BuildRequires:	gtk+2-devel >= 2:2.8.0
 BuildRequires:	libwnck-devel >= 2.0
 BuildRequires:	metacity-devel >= 2.15.21
